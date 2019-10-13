@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.com/SukritaEarn/demo-pyci.svg?branch=master)](https://travis-ci.com/SukritaEarn/demo-pyci)
 Continuous Integration Demo
+[![Build Status](https://travis-ci.com/SukritaEarn/demo-pyci.svg?branch=master)](https://travis-ci.com/SukritaEarn/demo-pyci)
 ============================
 
 This project demonstrates use of Travis CI to build and test a Python project.  

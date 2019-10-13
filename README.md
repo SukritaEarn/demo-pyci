@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/SukritaEarn/demo-pyci.svg?branch=master)](https://travis-ci.com/SukritaEarn/demo-pyci)
 Continuous Integration Demo
 ============================
 

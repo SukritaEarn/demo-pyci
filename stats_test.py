@@ -14,7 +14,7 @@ class StatsTest(TestCase):
 
     def test_variance_throws_exception(self):
         with self.assertRaises(ValueError):
-            var = variance([])
+            variance([])
 
 if __name__ == '__main__':
     import unittest

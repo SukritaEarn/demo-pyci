@@ -6,7 +6,7 @@ class StatsTest(TestCase):
     def test_variance_typical_values(self):
         self.assertEqual(0.0, variance([10.0,10.0,10.0,10.0,10.0]))
         self.assertEqual(2.0, variance([1,2,3,4,5]))
-        self.assertEqual(8.0, variance([10,2,8,4,6]))
+        self.assertEqual(8.0, variance([10,2,8,4,5]))
 
     def test_variance_single_value_is_zero(self):
         self.assertEqual(0.0, variance([0.0]))
